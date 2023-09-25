@@ -7,3 +7,4 @@ Let's get familiarized with def (function) as delicious as 🍎.
 2. [Init Method](OOP2.py); an automatic function when the class runs
 3. [Inheritance class](OOP3.py); of a child from the parent class
 4. [Override parent function](OOP4.py); Each child class can replace certain attributes from its parent
+5. [Access parent method](super.py); a child object can access parent method using super()
